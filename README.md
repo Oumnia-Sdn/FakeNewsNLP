@@ -1,8 +1,8 @@
 # Data analysis
 - Document here the project: FakeNewsNLP
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: This is a project of detecting fake news and making a difference between real and fake news.
+- Data Source: The dataset is downloadable [here](https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view)
+- Type of analysis:text mining, TfidfVectorizer and Passiveagressive Classifier
 
 Please document the project the better you can.
 
